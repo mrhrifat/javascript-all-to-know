@@ -29,20 +29,21 @@ var b = 7
 var modReminder = a % b;
 console.log(modReminder);
 
-var c = 10;
+console.log();
 
+var c = 10;
 //Incremental Oparator
 
 //Pre Increment
 console.log(c)
-var preIncrement = ++c;
-console.log(c);
-
+console.log(++c);
+console.log();
 var d = 15;
 //Post Increment
 console.log(d)
-var postIncrement = d++;
+console.log(d++);
 console.log(d);
+console.log();
 
 //Decremental Oparator
 
