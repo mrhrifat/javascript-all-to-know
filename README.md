@@ -1,1 +1,0 @@
-Javascript all to know - Javascript is the most popular programming language in the world. The most useful features of javascript are, it is lightweight, platform independent, asynchronous, functional, obejct based, interpreted  language. It canbe used in Frontend, Backend, Mobile, IOS, Desktop & AI  also. So I decided to learn & practice Javascript that all need to know.
