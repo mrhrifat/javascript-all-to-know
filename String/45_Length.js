@@ -1,9 +1,10 @@
 var str = "Assalamu Alaikum, How are you";
 
 //Length with Literal Logic
+var length = "";
 var sum = 0;
-if (str != "") {
-    for (var i = 0; i < str.length; i++) {
+if (str != length) {
+    for (var i = 0; i < str; i++) {
         sum += i;
     }
 }
