@@ -704,7 +704,7 @@ var canEat = {
 }
 function Person(n) {
     this.name = n
-    
+
 }
 Object.assign(Person.prototype, canEat, canWalk)
 var p1 = new Person('Ibn')
@@ -755,7 +755,7 @@ var canSwim = {
 }
 
 //Mixin
-mixin(Fish.prototype, canSwim,canEat)
+mixin(Fish.prototype, canSwim, canEat)
 
 var f1 = new Fish('Goldfish')
 console.log(f1)
