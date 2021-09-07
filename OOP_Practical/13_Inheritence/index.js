@@ -360,6 +360,7 @@ re1.draw()
 
 
 
+
 //Iterate Object and hasOwnProperty
 
 function Square5(b) {
