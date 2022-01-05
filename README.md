@@ -6,23 +6,22 @@ Why not? All major web browsers have a dedicated JavaScript engine to execute th
 Learn more about [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Agenda
-- Core
-    - Basic
-    - Operator
-    - Built In Class
-    - Condition
-    - Loop
-    - String
-    - Array
-    - Object
-    - Function
-- Advance
-    - Functional Programming
-    - Scope
-    - Closure
+- [Core](https://github.com/mrhrifat/javascript-all-to-know/tree/master/01_Core)
+    - [Basic](https://github.com/mrhrifat/javascript-all-to-know/tree/master/01_Core/01_Basic)
+    - [Operator](https://github.com/mrhrifat/javascript-all-to-know/tree/master/01_Core/02_Operators)
+    - [Built In Class](https://github.com/mrhrifat/javascript-all-to-know/tree/master/01_Core/03_BuiltInClass)
+    - [Condition](https://github.com/mrhrifat/javascript-all-to-know/tree/master/01_Core/04_Condtion)
+    - [Loop](https://github.com/mrhrifat/javascript-all-to-know/tree/master/01_Core/05_Loop)
+    - [String](https://github.com/mrhrifat/javascript-all-to-know/tree/master/01_Core/06_String)
+    - [Array](https://github.com/mrhrifat/javascript-all-to-know/tree/master/01_Core/07_Array)
+    - [Object](https://github.com/mrhrifat/javascript-all-to-know/tree/master/01_Core/08_Object)
+    - [Function](https://github.com/mrhrifat/javascript-all-to-know/tree/master/01_Core/09_Function)
+- [Advance](https://github.com/mrhrifat/javascript-all-to-know/tree/master/02_Advance)
+    - [Functional Programming](https://github.com/mrhrifat/javascript-all-to-know/tree/master/02_Advance/10_Funcational_Programmer)
+    - [Scope & Closure](https://github.com/mrhrifat/javascript-all-to-know/tree/master/02_Advance/11_Scope_Closure)
     - Object Oriented Programming
-       - Theory
-       - Practical
+       - [Theory](https://github.com/mrhrifat/javascript-all-to-know/tree/master/02_Advance/12_OOP_Theory)
+       - [Practical](https://github.com/mrhrifat/javascript-all-to-know/tree/master/02_Advance/13_OOP_Practical)
 
 ## Motive
 It will be helpful for  any future Programmer, who want to learn JavaScript from `Basic` to `Advance` by practice & solving problem. Also for those who won't understand any hard example of any Code Statement. It will be a good experience to for Programmers.
