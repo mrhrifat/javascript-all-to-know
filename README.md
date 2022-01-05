@@ -19,7 +19,7 @@ Learn more about [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - [Advance](https://github.com/mrhrifat/javascript-all-to-know/tree/master/02_Advance)
     - [Functional Programming](https://github.com/mrhrifat/javascript-all-to-know/tree/master/02_Advance/10_Funcational_Programmer)
     - [Scope & Closure](https://github.com/mrhrifat/javascript-all-to-know/tree/master/02_Advance/11_Scope_Closure)
-    - Object Oriented Programming
+    - [Object Oriented Programming](https://github.com/mrhrifat/javascript-all-to-know/tree/master/02_Advance/OOP)
        - [Theory](https://github.com/mrhrifat/javascript-all-to-know/tree/master/02_Advance/12_OOP_Theory)
        - [Practical](https://github.com/mrhrifat/javascript-all-to-know/tree/master/02_Advance/13_OOP_Practical)
 
