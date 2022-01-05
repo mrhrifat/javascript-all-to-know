@@ -26,3 +26,16 @@ Learn more about [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Motive
 It will be helpful for  any future Programmer, who want to learn JavaScript from `Basic` to `Advance` by practice & solving problem. Also for those who won't understand any hard example of any Code Statement. It will be a good experience to for Programmers.
+
+## How To Contribute
+I will be open to any contribution. If you have any idea, please let me know.
+- Fork the repository.
+- Make your changes.
+- Commit your changes.
+- Create a pull request.
+- Wait for the pull request to be merged.
+
+**Note:** If you want to do a major changes than first create an Issue.
+
+## License
+This project is licensed under [GPL-3.0](https://github.com/mrhrifat/javascript-all-to-know/blob/master/LICENSE.md).
